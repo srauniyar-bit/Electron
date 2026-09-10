@@ -15,8 +15,10 @@ At line 142, AI was used for the shadow and timing
 
 At line 172, the formula tag was inspiried from the AI prompted code
 
-After that most of the coding was done by me and AI was only used for defination, experiment explanation, dates of experiment,yt videos was also included in it and most of the written things about the topics to make people understand the topic and fully get what this website is about and how was its history.
-the topics explanation and the most of the writting part was done by AI.
+At some codes between 90 to 120, the animation style was inspiried from the AI prompted code
+
+After that most of the coding was done by me and defination, experiment explanation, dates of experiment was wrote by me with the help of my books and teachers ,AI suggested yt videos was also included in it. The topics and def,explanation was written in way so common people could undertand it easily and know our history of experiments. AI was used a little for styling and animations and 
+the topics explanation and the most of the writting part was done by me.
 
 
 ## Errors
@@ -26,4 +28,5 @@ line 140: semicolon error at the end; fixed
 line 149: semicolon error at the end; fixed
 
 
-
+the code is completed
+the program used AI for some parts and 
