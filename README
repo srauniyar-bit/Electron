@@ -1,5 +1,5 @@
 ## Prompt
-Create a website explaining class 12's physics topic called electron from who and how it was known. Make the website look dark,modern and full of dynamic animation with yt videos of explaing diffrent theories and cool animation where people can see the experiments where conducted and differen formulas of it and why and where they are used and real life examples with detailed info and the website look atracttive and interactive so people not only learn but enjoy to while learning.
+Create a website explaining class 12's physics topic called electron from who and how it was known. Make the website look dark,modern and full of dynamic animation and cool animation and differen formulas of it and why and where they are used and real life examples and the website look atracttive and interactive.
 
 This prompt was given to AI but not all part was used or copy pasted,most of the code was written by me and only used the code to get the idea of how should i make my website look attractive and where should i use AI so i can make to look attractive, interactive and where i have used AI is given below in detail:
 
@@ -10,4 +10,6 @@ At line 8, Ai was used for the URL to import
 At line 33, I used AI for the dynamic Electron view
 
 AT line, i used AI for grid specification 
+
+At line 142, Ai was used for the shadow and timing 
 
