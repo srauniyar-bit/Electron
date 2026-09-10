@@ -1,4 +1,19 @@
+## what It is:
+Electron Explorer is atomic physic project which is easy to understand. Users can learn and discover the electron and how thier experiments where done and watch videos about it with detail info and clear explanation. Some study key points are also provided with formulas.Real life experiments are also shown at the last so people feel how imprtant it was and how it contributed to our world. It have interactive design where users can interact with it and have fun while exploring the website.
+
+
+
+## tech $ tools
+frontend: HTML5, CSS3(costom key frames and animations)
+scripting and canvas: vanilla JS 
+AI: Gemini(used for css coding and little animation )
+
+
+
+
+
 ## Prompt
+
 Create a website explaining class 12's physics topic called electron from who and how it was known. Make the website look dark,modern and full of dynamic animation and cool animation and differen formulas of it and why and where they are used and real life examples and the website look atracttive and interactive.
 
 This prompt was given to AI but not all part was used or copy pasted,most of the code was written by me and only used the code to get the idea of how should i make my website look attractive and where should i use AI so i can make it look attractive, interactive and where i have used AI is given below in detail:
@@ -30,3 +45,10 @@ line 149: semicolon error at the end; fixed
 
 the code is completed
 the program used AI for some parts and most coding was done by me 
+
+
+## Screenshots
+
+![Front](./Screenshots/front.png)
+![Experiments](./Screenshots/experiment.png)
+![History](./Screenshots/history.png)
