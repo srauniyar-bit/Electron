@@ -29,4 +29,4 @@ line 149: semicolon error at the end; fixed
 
 
 the code is completed
-the program used AI for some parts and 
+the program used AI for some parts and most coding was done by me 

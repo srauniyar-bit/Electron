@@ -319,6 +319,7 @@ box-shadow: 0 0 15px var(--accent-1);
             particlesArray[i].update();
             particlesArray[i].draw();
         }
+        
         for (let a = 0; a < particlesArray.length; a++) {
             for (let b = a; b < particlesArray.length; b++) {
                 let distance = ((particlesArray[a].x - particlesArray[b].x) ** 2) + ((particlesArray[a].y - particlesArray[b].y) ** 2);
@@ -335,11 +336,13 @@ box-shadow: 0 0 15px var(--accent-1);
         requestAnimationFrame(animate);
     }
 
+
     window.addEventListener('resize', () => {
         canvas.width = window.innerWidth;
         canvas.height = window.innerHeight;
         init();
     });
+
 
     init();
     animate();
@@ -355,7 +358,6 @@ box-shadow: 0 0 15px var(--accent-1);
             }
         }
     }
-
     window.addEventListener('scroll', reveal);
     reveal();
 </script>
